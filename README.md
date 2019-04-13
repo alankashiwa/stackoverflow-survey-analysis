@@ -21,6 +21,6 @@ The dataset for this analysis is from [Stack Overflow Annual Developer Survey 20
 ## 5. Results
 The project notebook and the blog post link can be found below:
 1. [Project notebook](https://github.com/alankashiwa/stackoverflow-survey-analysis/blob/master/country-difference-analysis.ipynb)
-2. [Blog Post(Draft)](https://medium.com/@alanpochingyang/a-brief-exploration-of-country-difference-based-on-stack-overflow-developer-survey-2018-a3eb5e359a57)
+2. [Blog Post](https://link.medium.com/UvmLjjl2QV?fbclid=IwAR3xA4lzoVZexVkw-xYONo8d6RbMqyo0xMxsWdYq6Ae6iDoiDH7kPK3JziE)
 
 
